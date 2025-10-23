@@ -5888,3 +5888,11 @@ ul.service-details-list img {
     outline: none !important;
     box-shadow: none !important;
 }
+
+.service-block-one img{
+    width: 220px !important;
+}
+
+.dropdown-item:active{
+    background-color: #deb18a !important;
+}
